@@ -1,0 +1,14 @@
+ModificationType: Mod
+Name: ZH Reborn
+Version: V7 Alpha v0.3
+SimpleDownloadLink: https://gen.insave.ovh/zhreborn/mod/ZHRebornV7_AlphaV03.zip
+UIImageSourceLink: https://i.imgur.com/6JnaVEW.jpg
+DiscordLink: https://discord.gg/7NsTfDD
+ModDBLink: https://www.moddb.com/mods/zero-hour-reborn1
+NewsLink: https://www.moddb.com/mods/zero-hour-reborn1/news/reborn-v7-alpha-v03
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: zhreborn
+S3FolderName: reborn-individual-files
+S3HostPublicKey: ''
+S3HostSecretKey: ''
